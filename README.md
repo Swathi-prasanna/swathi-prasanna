@@ -4,7 +4,7 @@
 
 🌱 Learning :Git, GitHub, Html, Css, Python, SQL.
 
-🌟 Interested in Web Developer, Ai, Data Science, Data Analytics,Python.
+🌟 Interested in Web Developer, Ai, Data Science, Data Analytics, Python.
 
 🎯 Aspiring to become a Full Stack Developer with strong skills in AI and Data Science.
 
