@@ -1,11 +1,9 @@
 # Hi, I'm Swathi
 
 ## About Me
+🌱 Learning: Git, GitHub, HTML, CSS, Python, SQL  
+🌟 Interested in Web Development, AI, Data Science, Data Analytics  
+🎯 Aspiring to become a Full Stack Developer with strong skills in AI and Data Science  
 
-🌱 Learning :Git, GitHub, Html, Css, Python, SQL.
-
-🌟 Interested in Web Developer, Ai, Data Science, Data Analytics, Python.
-
-🎯 Aspiring to become a Full Stack Developer with strong skills in AI and Data Science.
-
-🌸 Fun Fact: I Enjoy Keeping Life Simple And Focused On Growth 
+## Fun Fact
+🌸 I enjoy keeping life simple and staying focused on growth.
